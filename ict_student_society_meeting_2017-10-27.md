@@ -1,4 +1,4 @@
-# ICT Student Society / IT Lab Admin Meeting 27 October 2017
+# ICT Student Society / IT Lab Admin Meeting 27th October 2017
 
 - New name for the group
     * It was decided that "VIA ICT Student Society" was the most suitable name
