@@ -7,10 +7,10 @@ now to clean up my notes... :|
 - LAN
     * Jacub is up for arranging the LAN party again next semester   
     * The LAN party went well but a few things could have been done differently
-         * 2 month ahead... sponsers... prizes.. more time
-         * more people to help with... there was about 10, but they were not helpful.. 3-4 actuallly organizers... more for   about 5 games.... or smaller with less games
-         * online registration
-         * A auditorium
+         * Contact sponsors to 2 months ahead to get prizes
+         * 3-4 organizers is not enought for managing about 5 games. It should either be a smaller event with with less games or there should be more organizers involved
+         * Online registration for the turnaments didn't work well because a lot of the registered people didn't turn up
+         * It would be better with a larger room such as the A Auditorium
 
 - specialization
     * already picked. the last time...
