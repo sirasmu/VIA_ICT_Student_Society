@@ -12,13 +12,14 @@ now to clean up my notes... :|
          * Online registration for the turnaments didn't work well because a lot of the registered people didn't turn up
          * It would be better with a larger room such as the A Auditorium
 
-- specialization
-    * already picked. the last time...
-    * Poul/Signe, David, Kris...
+- Specialization
+    * 2nd semester students already picked this, but they would still like a presentation it seems
+    * Signe should get in contact with people from 2nd semester and people from the relevant specilizations (e.g. Embedded: Poul/Signe, Crossmedia: David, Data engineering: Kris)
 
 - Ask Kris to do a workshop about workshops
-    * jjj
-    * 
+    * Which date?
+
+clean up notes so other people can read it
 
 - get in touch Signe internship... 15th... kris 12.45... should be....
     * get touch with people doing internships
