@@ -2,14 +2,15 @@
 
 now to clean up my notes... :|
 
-## Changes within the group
+## Previous events
 
 - LAN
-    * jacub
-    * 2 month ahead... sponsers... prizes.. more time
-    * more people to help with... there was about 10, but they were not helpful.. 3-4 actuallly organizers... more for about 5 games.... or smaller with less games
-    * online registration
-    * A auditorium
+    * Jacub is up for arranging the LAN party again next semester   
+    * The LAN party went well but a few things could have been done differently
+         * 2 month ahead... sponsers... prizes.. more time
+         * more people to help with... there was about 10, but they were not helpful.. 3-4 actuallly organizers... more for   about 5 games.... or smaller with less games
+         * online registration
+         * A auditorium
 
 - specialization
     * already picked. the last time...
